@@ -1,2 +1,2 @@
 # Advantech
-Bots
+Bots for CJ and LI with
