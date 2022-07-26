@@ -22,3 +22,4 @@ https://www.w3schools.com/python/
 https://www.selenium.dev/documentation/
 https://xlwt.readthedocs.io/en/latest/
 https://code.visualstudio.com/updates/v1_69
+https://www.w3schools.com/html/
